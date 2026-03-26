@@ -1,10 +1,21 @@
+![GitHub](https://img.shields.io/github/license/hazels-garage/satpad?label=%20&logo=creativecommons&logoColor=%23ffffff&style=flat-square)
+<a href="https://discord.gg/jP6hvgNN8r">
+  <img src="https://img.shields.io/discord/989552667330228374?color=%237289da&label=%20&logo=discord&logoColor=%23fff&style=flat-square" />
+</a>
+
+
 # SatPad
 
-30% ortholinear keyboard built using ergogen. 
+30% ortholinear keyboard built using ergogen v3. 
 
 ![rev2](images/rev2-wireless.jpg) 
 ![front](images/front.jpg) 
 ![back](images/back.jpg)
+
+## ERGOGEN V3!
+I have not updated this project to use Ergogen v4 and am unlikely to do so.
+
+
 ## Features
 
 - 30 key ortholinear split (10 column, 3 row)
@@ -32,12 +43,9 @@ https://github.com/jasonhazel/ergogen/tree/jasonhazel
 * 1x LiPo Battery (optional)
 
 ## Firmware
-QMK: https://github.com/jasonhazel/qmk_firmware/tree/master/keyboards/jasonhazel/satpad
+QMK: https://github.com/jasonhazel/qmk_firmware/tree/hazel/satpad
 
 ZMK: https://github.com/jasonhazel/zmk-config/tree/satpad
 
 ## Keymap
 ![Keymap](images/keymap.png)
-
-
-
